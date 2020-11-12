@@ -1,3 +1,5 @@
+# mesos-boshrelease is no longer actively maintained by VMware.
+
 # Bosh release for Apache Mesos
 
 One of the fastest ways to get [Apache Mesos](http://mesos.apache.org/) running on any infrastructure is to deploy this BOSH release.
